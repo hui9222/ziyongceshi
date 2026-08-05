@@ -3,7 +3,6 @@
 # 自定义直连规则
 ruleset=🚀 节点选择,[]DOMAIN,test12345678.com
 ruleset=DIRECT,[]DOMAIN-SUFFIX,imgse.com
-
 ruleset=DIRECT,[]DOMAIN,0.openwrt.pool.ntp.org
 ruleset=DIRECT,[]DOMAIN,0.cn.pool.ntp.org
 ruleset=DIRECT,[]DOMAIN,mq.tineco.com
